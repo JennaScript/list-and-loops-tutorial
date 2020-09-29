@@ -1,16 +1,19 @@
 #List and Loops Tutorial
 
 #Question 1
+#create list
 songs = ["ROCKSTAR", "Do It", "For The Night"]
 
 #Question 2
 #Task 1
+#print first and last element of songs list
 print (songs[0], songs[2])
 #or
 print (songs[0])
 print (songs[2])
 
 #Task 2
+#print using list slice
 print (songs[1:3])
 
 #Question 3
